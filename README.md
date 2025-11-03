@@ -9,7 +9,7 @@ https://github.com/anthropics/prompt-eng-interactive-tutorial
 
 API_KEY
 ```
-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
+asdf
 ```
 
 ### Setup
